@@ -1,7 +1,7 @@
 all: README.md
 
 README.md: 
-	echo "Project title" > README.md
+	echo "Project title\n" > README.md
 	echo "Hooray" >> README.md
 	
 clean:
