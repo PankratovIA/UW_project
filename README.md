@@ -1,4 +1,4 @@
-### Guessing game
+# Guessing game
 
-## It is a project for **The Unix Workbench** course from *Coursera*
+It is a project for **The Unix Workbench** course from *Coursera*
 
