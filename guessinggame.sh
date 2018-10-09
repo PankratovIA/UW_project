@@ -20,7 +20,7 @@ while [[ 1 ]]
 do
     echo "Enter your guess:"
     read GUESS
-    COUNT=$(ls | grep "^-" | wc -l)
+    COUNT=$(ls -lh | grep "^-" | wc -l)
     MSG=$(check $GUESS $COUNT)
     if [[ $MSG != "OK" ]]
         then 
