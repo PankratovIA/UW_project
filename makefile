@@ -1,8 +1,7 @@
 all: README.md
 
 README.md: 
-	echo "Project title\n" > README.md
-	echo "Hooray" >> README.md
-	
+	echo "### Guessing game\n" > README.md
+	echo "## It is a project for **"The Unix Workbench"** course from *Coursera*\n" >> README.md
 clean:
 	rm -fv README.md

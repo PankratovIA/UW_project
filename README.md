@@ -1,3 +1,4 @@
-Project title
+### Guessing game
 
-Hooray
+## It is a project for **The Unix Workbench** course from *Coursera*
+
